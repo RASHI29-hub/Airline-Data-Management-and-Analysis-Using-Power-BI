@@ -1,1 +1,2 @@
 # Airline-Data-Management-and-Analysis-Using-Power-BI
+Developed an interactive Power BI dashboard by extracting, cleaning, and modelling airline operational, passenger, and ticket data. Implemented DAX calculations, conditional logic, and advanced visualizations to identify key booking trends and flight performance insights. Configured Row-Level Security (RLS) and scheduled data refreshes for secure, automated, and scalable reporting in Power BI Service.
